@@ -6,6 +6,25 @@
 > Explorando o Cypress para automação de testes funcionais de Interface Gráfica de Usuário (GUI) e API REST
 
  Projeto realizado durante o curso **Cypress Intermediário** da escola online **Talking About Testing**.
+ 
+## 📚 Tópicos
+
+- Como configurar o ambiente local de desenvolvimento
+- Como instalar e configurar o Cypress
+- Como criar testes automatizados de interface gráfica de usuário
+- Como criar testes automatizados de API (com feedback visual no navegador)
+- Como testar APIs que necessitam um token de acesso
+- Como criar testes otimizados e direto-ao-ponto
+- Como salvar a sessão do usuário no navegador para posterior restauração
+- Como validar se a sessão do usuário ainda é válida e como lidar com isso quando a mesma é invalidada
+- Como fazer a limpeza e criação da massa de dados antes do teste começar
+- Como proteger dados sensíveis, tais como senhas e tokens de acesso
+- Como organizar os testes e comandos customizados em diferentes "camadas" (API, CLI, GUI)
+- Como estruturar os testes pensando em pré-condições, ações e resultados esperados
+- Como gerar dados aleatórios para uso nos testes automatizados
+- Como habilitar funcionalidades experimentais do Cypress
+- Como executar comandos à nível de sistema operacional
+- Como testar a leitura de arquivos
 
 ## 🔧 Ferramentas e Tecnologias
 

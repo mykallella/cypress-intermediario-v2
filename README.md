@@ -9,7 +9,7 @@
  
 ## 📚 Tópicos
 
-- Como configurar o ambiente local de desenvolvimento
+- Como configurar o ambiente local de desenvolvimento usando Docker
 - Como instalar e configurar o Cypress
 - Como criar testes automatizados de interface gráfica de usuário
 - Como criar testes automatizados de API (com feedback visual no navegador)

@@ -3,7 +3,7 @@
 ![preview](./preview1.png)
 ![preview](./preview2.png)
  
-> Explorando o Cypress para automação de testes funcionais de Interface Gráfica de Usuário (GUI) e API REST
+> Explorando o Cypress para automação de testes - E2E e API REST
 
  Projeto realizado durante o curso **Cypress Intermediário** da escola online **Talking About Testing**.
  
@@ -32,7 +32,7 @@
 - Cypress (`v12.0.2`)
 - Cypress Plugin Api (`v2.6.1`)
 - Faker (`v7.6.0`)
-- Node.js (`v16.13.2`)
+- Node.js (`v18.16.0`)
 - npm (`v8.19.2`)
 
 
